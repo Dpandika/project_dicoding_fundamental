@@ -1,0 +1,1 @@
+enum DioResult { loading, noData, hasData, error }
